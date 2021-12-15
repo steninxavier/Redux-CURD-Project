@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Nelson",
+      "address": "berlin ",
+      "email": "nelsonea@gmail.com",
+      "contact": "+4990657878",
+      "id": "2"
+    },
+    {
+      "name": "stenin",
+      "email": "steninxavier@gmail.com",
+      "contact": "99958204333",
+      "address": "Berlin",
+      "id": "r4_FRYl"
+    },
+    {
+      "name": "Antony",
+      "email": "Joseph",
+      "contact": "89076545",
+      "address": "iouygh",
+      "id": "rbQmsWL"
+    },
+    {
+      "name": "dff",
+      "email": "fgh",
+      "contact": "fgh",
+      "address": "ghh",
+      "id": "He9YFkJ"
+    }
+  ]
+}
