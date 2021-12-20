@@ -1,6 +1,6 @@
 {
   "name": "redux",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
@@ -23,18 +23,16 @@
     "serve": "^13.0.2",
     "web-vitals": "^1.1.2"
   },
-  "engines": {
-    "node": "6.11.1"
-  },
-  "scripts": {
+
   
+  "scripts": {
+    
     "server": "json-server --watch db.json --port 5000",
     "dev": "react-scripts start",
-    "start": "serve -s build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "npm run build"
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
