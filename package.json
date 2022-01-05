@@ -29,8 +29,8 @@
     
     "server": "json-server --watch db.json --port 5000",
     "dev": "react-scripts start",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
